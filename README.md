@@ -7,7 +7,6 @@
  
  ### **2. Para começar** 
 
- ### **3. Como contribuir** 
 
 ---
 ## **Sobre**
@@ -18,7 +17,7 @@ Git e Github são ferramentas que ajudam no controle do versionamento de código
 
 ## **Para começar** 
 
-Para conseguir seguir os passos da documentação contida aqui, você precisará ter uma conta criada no **[GitHub](https://github.com/)** baixar e instalar os seguintes softwares: 
+Para conseguir seguir os passos da documentação contida aqui, você precisará ter uma conta criada no **[GitHub](https://github.com/)**, baixar e instalar os seguintes softwares: 
 
 **[Git](https://git-scm.com/downloads)** 
 
@@ -33,5 +32,3 @@ Para repositório local.
 Editor de código.
 
 
---- 
-## **Como contribuir** 
