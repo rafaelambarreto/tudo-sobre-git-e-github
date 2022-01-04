@@ -6,7 +6,7 @@
 
 ### a. Vá ao menu e entre em **'file'** e depois clique em **'New Repository'** 
 
-![imagem-new-repository](tudo-sobre-git-e-github/Resources/File-new-repository.png)
+![imagem-new-repository](Resources/File-new-repository.png)
 
 
 
