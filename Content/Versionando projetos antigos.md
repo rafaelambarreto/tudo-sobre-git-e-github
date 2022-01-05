@@ -87,7 +87,7 @@ Assim, todos os seus arquivos do projeto estarão no GitHub e prontos para serem
 
 # **Material de Referência** 
 
-Acesse à [aula online do Gustavo Guanabara no YouTube](https://youtu.be/065NQCDSMb0). 
+Acesse a [aula online do Gustavo Guanabara no YouTube](https://youtu.be/065NQCDSMb0). 
 
 
 
